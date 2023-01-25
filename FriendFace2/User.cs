@@ -36,7 +36,6 @@ internal class User
             Console.WriteLine($"You and {FriendToAdd.FullName()} are already friends.");
             Console.ResetColor();
         }
-
         Console.WriteLine();
     }
 
